@@ -1,17 +1,16 @@
-# Project Name
-Please replace with your projects name
+# Resources Best Practices
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+If you have ever heard the words “we can’t possibly be the first ones to ever encounter this!” followed by “well... how do other organizations do it?” then we have something just for you!
+
+To enable non-profit organizations to do more with their Salesforce technology by offering nonprofit staff and consultants in an easy, searchable repository of our community’s best tips, resources and use cases. This will help Salesforce users and builders paint the possibilities of what they can do in their Salesforce org.
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Nonprofit
 
 ## Hub Group Link
-Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
+Check back later. 
 
 # Current Project Team & Accomplishments
 
