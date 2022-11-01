@@ -1,4 +1,4 @@
-# Resources Best Practices
+# Sprinty's Community Resources
 
 # Project Overview
 ## Vision & Goals
@@ -16,8 +16,24 @@ Check back later.
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Jodi Nemser-Abrahams   | Group Leader  | [@JodiNA](https://github.com/jodina)    | 
+Rebecca Tasetano  | Group Leader  | [@pkasolves](https://github.com/pkasolves)    | 
+Sowmya Bhat | Contributor |
+Shari Carlson   | Contributor   |                                                    | 
+Mark Jones | Contributor |
+John Kin | Contributor |
+Sam Knox | Contributor |
+Michael Kolodner | Contributor |
+Debbie Lee | Contributor 
+Cheri Lovell | Contributor |
+Ruby Menon | Contributor |
+Victor Nininger | Contributor |
+Tania Ortiz-Ashby | Contributor |
+Chris Pipfer | Contributor
+Shira Rascoe | Contributor |
+Catherine Zheng | Contributor |
+
+and many more...
 
 ## Sprint (DATE)
 
