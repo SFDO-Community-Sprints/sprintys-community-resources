@@ -27,9 +27,10 @@ Michael Kolodner | Contributor |
 Debbie Lee | Contributor 
 Cheri Lovell | Contributor |
 Ruby Menon | Contributor |
+Vicki Moritz-Henry | Contributor |
 Victor Nininger | Contributor |
 Tania Ortiz-Ashby | Contributor |
-Chris Pipfer | Contributor
+Chris Pifer | Contributor
 Shira Rascoe | Contributor |
 Catherine Zheng | Contributor |
 
