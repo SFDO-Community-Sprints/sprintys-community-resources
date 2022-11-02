@@ -19,7 +19,7 @@ Full Name            | Team Role     | Github Username                          
 Jodi Nemser-Abrahams   | Group Leader  | [@JodiNA](https://github.com/jodina)    | 
 Rebecca Tasetano  | Group Leader  | [@pkasolves](https://github.com/pkasolves)    | 
 Sowmya Bhat | Contributor |
-Shari Carlson   | Contributor   |                                                    | 
+Shari Carlson   | Contributor |                                                    | 
 Mark Jones | Contributor |
 John Kin | Contributor |
 Sam Knox | Contributor |
@@ -32,38 +32,15 @@ Victor Nininger | Contributor |
 Tania Ortiz-Ashby | Contributor |
 Chris Pifer | Contributor
 Shira Rascoe | Contributor |
+Maida Rider | Contributor |
+Sean Williams| Contributor |
 Catherine Zheng | Contributor |
-
 and many more...
 
-## Sprint (DATE)
+## Mini-Sprint (Octber 20, 2022)
 
 ### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-# Past Project Teams
-We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
-
+We moved to our new home in a Salesforce Experience Site! We created a flow for resource submissions, started building out the curator process in the Experience Site, and added a table of resources to the site using Enhanced Lightning Grids. 
 
 # Project Resources and Documentation
 Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
