@@ -9,8 +9,8 @@ To enable non-profit organizations to do more with their Salesforce technology b
 ## Project Vertical
 Nonprofit
 
-## Hub Group Link
-Check back later. 
+## Trailblazer Community Group Link
+https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kQ1NSAU 
 
 # Current Project Team & Accomplishments
 
