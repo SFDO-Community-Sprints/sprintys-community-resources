@@ -32,17 +32,19 @@ Cheri Lovell | Steering Committee || Engagement
 Full Name            | Team Role     | Github Username                                   
 ------------         | ------------- | -------------                                      
 Rebecca Tasetano  | Former Group Leader | [@pkasolves](https://github.com/pkasolves)    | 
-Sowmya Bhat | Contributor |
 Shari Carlson   | Contributor |                                                    | 
-Mark Jones | Contributor |
+Emma Keeling | Contributor|
+Raksha Sanganee |Contributor|
 Debbie Lee | Contributor 
 Delilah Marto | Contributor|
+Mark Jones | Contributor |
 Ruby Menon | Contributor |
 Vicki Moritz-Henry | Contributor |
 Victor Nininger | Contributor |
 Chris Pifer | Contributor
 Maida Rider | Contributor |
 Sean Williams| Contributor |
+Sowmya Bhat | Contributor |
 Catherine Zheng | Contributor |
 and many more...
 
