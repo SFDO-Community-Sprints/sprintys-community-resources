@@ -12,27 +12,35 @@ Nonprofit
 ## Trailblazer Community Group Link
 https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kQ1NSAU 
 
-# Current Project Team & Accomplishments
+## Current Project Team
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
 Jodi Nemser-Abrahams   | Group Leader  | [@JodiNA](https://github.com/jodina)    | 
-Rebecca Tasetano  | Group Leader  | [@pkasolves](https://github.com/pkasolves)    | 
+Shira Rascoe | Group Leader | | 
+John Kin | Steering Committee || Curation
+Deb Derringer | Steering Committee || Curation
+Jana Walker |Steering Committee||Resources
+Michael Kolodner | Steering Committee || Resources
+Tania Ortiz-Ashby | Steering Committee | |Resources
+Sam Knox | Steering Committee || Engagement
+Cheri Lovell | Steering Committee || Engagement
+
+
+## Additional Contributors
+
+Full Name            | Team Role     | Github Username                                   
+------------         | ------------- | -------------                                      
+Rebecca Tasetano  | Former Group Leader | [@pkasolves](https://github.com/pkasolves)    | 
 Sowmya Bhat | Contributor |
 Shari Carlson   | Contributor |                                                    | 
 Mark Jones | Contributor |
-John Kin | Contributor |
-Sam Knox | Contributor |
-Michael Kolodner | Contributor |
 Debbie Lee | Contributor 
-Cheri Lovell | Contributor |
 Delilah Marto | Contributor|
 Ruby Menon | Contributor |
 Vicki Moritz-Henry | Contributor |
 Victor Nininger | Contributor |
-Tania Ortiz-Ashby | Contributor |
 Chris Pifer | Contributor
-Shira Rascoe | Contributor |
 Maida Rider | Contributor |
 Sean Williams| Contributor |
 Catherine Zheng | Contributor |
